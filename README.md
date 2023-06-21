@@ -6,4 +6,5 @@ El cliente puede ver un listado de restaurantes, y puede entrar para ver sus pla
 Los empleados verán un listado de pedidos por parte de los clientes, y sólo puede tomar uno. Puede cambiar el estado del plato en "preparación", "acabado" y "entregado".
 
 **NOTA**: El proyecto no está terminado por completo, y si quieres correrlo, debes de usar XAMPP, y descargar la carpeta del proyecto dentro de la carpeta de xampp "htdocs" para poder usar la aplicación.
+
 **CONTRASEÑA DE ADMINISTRADOR**: 1234567890
