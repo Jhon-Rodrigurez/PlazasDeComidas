@@ -1,0 +1,45 @@
+.borde-titulo {
+    background-color: red;
+}
+#cuerpoCrearPropietario {
+    background-image: url(../assets/fondoDashBoardCrearPropietario.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#cuerpoCrearRestaurante {
+    background-image: url(../assets/fondoDashBoardCrearRestaurante.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#cuerpoDashBoardCrearPlato {
+    background-image: url(../assets/fondoDashBoardCrearPlato.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#cuerpoDashBoardCrearEmpleado {
+    background-image: url(../assets/fondoDashBoardCrearEmpleado.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.contenedor-imagen {
+    
+    transition: box-shadow 0.3s ease-in-out;
+}
+.contenedor-imagen:hover {
+    box-shadow: 0 0 50px rgba(0,0,0,0.5);
+    cursor: pointer;
+}
+.contenedor-formulario {
+    opacity: 90%;
+}
+.contenedor-verPlatos {
+    transition: box-shadow 0.3s ease-in-out;
+}
+.contenedor-verPlatos:hover {
+    box-shadow: 0 0 50px rgba(0,0,0,0.5);
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.borde-titulo {
+    background-color: red;
+}
+.contenedor-imagen {
+    transition: box-shadow 0.3s ease-in-out;
+}
+.contenedor-imagen:hover {
+    box-shadow: 0 0 50px rgba(0,0,0,0.5);
+    cursor: pointer;
+}
+.lista-restaurante {
+    transition: box-shadow 0.3s ease-in-out;
+}
+.lista-restaurante:hover {
+    box-shadow: 0 0 50px rgba(0,0,0,0.5);
+    cursor: pointer;
+}

@@ -1,0 +1,18 @@
+#cuerpoCrearPropietario{
+    background-image: url(../assets/fondoDashBoardCrearPropietario.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.borde-titulo{
+    background-color: red;
+}
+.contenedorFormulario{
+    opacity: 90%;
+}
+#cuerpoCrearRestaurante {
+    background-image: url(../assets/fondoDashBoardCrearRestaurante.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
